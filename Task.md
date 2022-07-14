@@ -1,4 +1,4 @@
-Sf1
-Sf2
-Sf3
-Sf4
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
